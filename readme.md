@@ -1,6 +1,7 @@
 ## linux-amd64 embedded znnd 
 single push-button spinup of embedded `znnd` binary for linux-amd64 
 
+### NOTE: For use in unikernel/container node development
 
 - Run with default znn root directory (`/root/znn`):
 ```sh 
